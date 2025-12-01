@@ -1,0 +1,9 @@
+Sense real-time environment parameters
+
+Display values on OLED/LCD
+
+Upload data to IoT server (ThingSpeak / Blynk / Firebase)
+
+Trigger alerts when thresholds exceed
+
+Show good firmware practices and modular code
